@@ -57,14 +57,18 @@ h4 {
     float: right;
 }
 
-.btn-secondary,
-.btn-secondary:visited {
+.btn-default,
+.btn-default:visited {
     color: #C25100;
     background: none;
     border-color: #C25100;
 }
 
-.btn-secondary:hover {
+.btn-default:hover {
     color: #FFFFFF;
     background-color: #C25100;
+}
+
+.comment {
+    margin: 20px 0px 20px 20px;
 }
